@@ -1,8 +1,6 @@
 # email_classifier
 
-Certainly! Below is a README.md file for the email classifier project. You can save this content in a file named README.md.
 
-markdown
 # Email Classifier
 
 A simple Python-based email classifier that categorizes emails into three categories: spam, malicious, and genuine. This classifier uses Natural Language Processing (NLP) techniques along with a Naive Bayes machine learning model to classify emails based on their content.
