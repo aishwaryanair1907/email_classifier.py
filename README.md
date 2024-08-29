@@ -1,4 +1,4 @@
-# email_classifier.py
+# email_classifier
 
 Certainly! Below is a README.md file for the email classifier project. You can save this content in a file named README.md.
 
